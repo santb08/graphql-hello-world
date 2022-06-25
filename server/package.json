@@ -1,0 +1,13 @@
+{
+  "author": "Santb",
+  "description": "First server using Apollo Client",
+  "name": "hello-world-server",
+  "private": true,
+  "type": "module",
+  "version": "1.0.0",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server": "^3.9.0",
+    "graphql": "^16.5.0"
+  }
+}
